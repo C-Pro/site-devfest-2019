@@ -1,10 +1,10 @@
 ---
-title: Équipe
+title: Команда
 type: team
 menu:
   main:
     weight: 60
-    
+
 draft: false
 ---
 

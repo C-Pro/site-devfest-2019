@@ -2,6 +2,7 @@ steps:
     - name: 'gcr.io/cloud-builders/git'
       args: ['submodule', 'update', '--init', '--recursive']
     - name: 'gcr.io/${PROJECT_ID}/hugo'
+      env: ['HUGO_ENV=production']
       args: ['--minify']
     - name: 'gcr.io/${PROJECT_ID}/firebase'
       args: ['deploy', '--project', '${PROJECT_ID}', '--token', '${_TOKEN}']

@@ -1,5 +1,5 @@
 ---
-title: Programme
+title: Расписание
 menu:
   main:
     weight: 10
