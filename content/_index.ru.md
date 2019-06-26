@@ -28,36 +28,28 @@ menu:
 
 ## Что такое DevFest Vladivostok?
 
-DevFest - это ежегодная техническая конференция разработчиков. Она будет интересна профессионалам, студентам и просто интересующимся технологиями.
+DevFest - это ежегодная техническая конференция разработчиков. Во Владивостоке проводится уже четвёртый год. Конференция будет интересна профессионалам, студентам и просто людям, интересующимся технологиями.
 {{% /home-info %}}
 
+<!--
 
 {{< youtube-section link="kcepvhosV4U" title="Видео нарезка с DevFest разных годов" class="" >}}
-
-<!-- ... -->
 
 
 
 {{% home-speakers %}}
 ## Докладчики
 
-<!--
 {{< button-link label="Submit a presentation"
                 url="https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
                 icon="cfp" >}}
--->
-
-<!-- ...
 
 {{< button-link label="See all speakers"
                 url="./speakers"
                 icon="right" >}}
--->
 
 {{% /home-speakers %}}
 
-
-<!--
 
 {{% home-subscribe  class="primary" %}}
 
