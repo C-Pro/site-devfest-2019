@@ -1,12 +1,12 @@
 ---
-title: Call For Paper
+title: Call For Papers
 brief: The CFP is opened till August the 31th 2019
 image: /images/blog/cfp.jpg
 date: 2019-06-26
 draft: false
 ---
 
-DevFest Vladivostok will take place in Coworking DOM 28th of September 2019. This year we expect more than 200 participants!
+DevFest Vladivostok will take place in Coworking DOM at 28th of September 2019. This year we expect more than 200 participants!
 
 If you have something to say to developers community do not hesitate and submit a talk [DevFest Vladivostok Call for Papers](https://forms.gle/N8dsZPD3pcYMkFvm6)
 Call for Papers is expected to be open until end of August, but do not wait until the end to have a chance to be a promoted featured speaker!
