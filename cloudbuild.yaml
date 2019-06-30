@@ -3,7 +3,7 @@ steps:
       args: ['submodule', 'update', '--init', '--recursive']
     - name: 'node:10.15.1'
       entrypoint: 'bash'
-      args: ['build-theme.sh']
+      args: ['./build-theme.sh']
     - name: 'gcr.io/${PROJECT_ID}/hugo'
       env: ['HUGO_ENV=production']
       args: ['--minify']
