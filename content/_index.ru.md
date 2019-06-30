@@ -24,27 +24,27 @@ menu:
 
 
 
-{{% home-info what="Участников:200+,Дней:1,Сессий:10+,Потоков:2" class="primary" %}}
+{{% home-info what="Участников:200+,День:1,Сессий:10+,Потока:2" class="primary" %}}
 
 ## Что такое DevFest Vladivostok?
 
-DevFest - это ежегодная техническая конференция разработчиков. Во Владивостоке проводится уже четвёртый год. Конференция будет интересна профессионалам, студентам и просто людям, интересующимся технологиями.
+DevFest — это ежегодная техническая конференция разработчиков. Во Владивостоке проводится уже четвёртый год. Конференция будет интересна профессионалам, студентам и просто людям, интересующимся технологиями.
 {{% /home-info %}}
 
 <!--
 
-{{< youtube-section link="kcepvhosV4U" title="Видео нарезка с DevFest разных годов" class="" >}}
+{{< youtube-section link="kcepvhosV4U" title="Видео-нарезка с DevFest разных годов" class="" >}}
 
 
 
 {{% home-speakers %}}
 ## Докладчики
 
-{{< button-link label="Submit a presentation"
+{{< button-link label="Предложить доклад"
                 url="https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
                 icon="cfp" >}}
 
-{{< button-link label="See all speakers"
+{{< button-link label="Все докладчики"
                 url="./speakers"
                 icon="right" >}}
 
@@ -53,41 +53,42 @@ DevFest - это ежегодная техническая конференци�
 
 {{% home-subscribe  class="primary" %}}
 
-## Get notified about the important conference updates
+## Подпишитесь на важные новости конференции
 
 {{% /home-subscribe %}}
 
 
 
 {{% home-tickets %}}
-# Tickets <a class="btn primary" href="https://www.billetweb.ru/devfest-toulouse-2019" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Ticketing</a>
+# Tickets <a class="btn primary" href="https://www.billetweb.ru/devfest-toulouse-2019" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Билеты</a>
 
 <ul>
-<li>{{< ticket name="Blind Birds"
+<li>{{< ticket name="Слепая птаха"
            starts="2019-03-25"
            ends="2019-04-25"
            price="40 €"
-           info="50 first places"
+           info="50 первых мест"
            soldOut="true"
            url="https://www.billetweb.ru/devfest-toulouse-2019" >}}</li>
-<li>{{< ticket name="Early Birds"
+<li>{{< ticket name="Ранняя птаха"
            starts="2019-04-25"
            ends="2019-06-22"
            price="60 €"
-           info="80 first places"
+           info="80 первых мест"
            soldOut="true"
            url="https://www.billetweb.ru/devfest-toulouse-2019" >}}</li>
-<li>{{< ticket name="Normal"
+<li>{{< ticket name="Обычный"
            starts="2019-06-22"
            ends="2019-10-03"
            price="80 €"
-           info="300 last places"
+           info="300 оставшихся мест"
            close="true"
            soldOut=""
            url="https://www.billetweb.ru/devfest-toulouse-2019" >}}</li>
 </ul>
 
 \* Your ticket gives you access to all conferences, coffee breaks, and lunch. Accommodation is NOT included in this price.
+\* Билет даёт доступ ко всем залам, кофе-брейкам и перекусам. Проживание НЕ включено в стоимость.
 
 {{% /home-tickets %}}
 
@@ -106,7 +107,7 @@ DevFest - это ежегодная техническая конференци�
 
 
 Коворкинг расположен в центре города в пешей доступности от остановок общественного транспорта. Рядом со зданием есть платная парковка.
-Подробней о площадке можно узнать на сайте https://domvl.ru
+Подробнее о площадке можно узнать на сайте https://domvl.ru
 
 {{% /home-location %}}
 
@@ -114,10 +115,10 @@ DevFest - это ежегодная техническая конференци�
 
 {{% album images="/images/album/2018/1.jpg,/images/album/2018/2.jpg,/images/album/2018/3.jpg,/images/album/2018/4.jpg,/images/album/2018/5.jpg,/images/album/2018/6.jpg,/images/album/2018/7.jpg,/images/album/2018/8.jpg" %}}
 
-### Фото альбом **DevFest Владивосток 2018**
+### Фотоальбом **DevFest Владивосток 2018**
 
 <a class="btn primary" target="_blank" rel="noopener" href="https://photos.app.goo.gl/DQY52aF5qyci2XdXA">
-    See all photos
+    Все фото
     {{% icon "right" %}}
 </a>
 
@@ -126,6 +127,6 @@ DevFest - это ежегодная техническая конференци�
 <!-- ... -->
 
 {{% partners categories="general,venue,communities" %}}
-## Partners <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing" target="_blank">Стать партнёром</a>
+## Партнёры <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing" target="_blank">Присоединиться</a>
 
 {{% /partners %}}
