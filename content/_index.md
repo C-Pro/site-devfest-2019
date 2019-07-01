@@ -13,7 +13,7 @@ menu:
 ## 28 September 2019
 ### Coworking DOM
 
-<a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing" target="_blank">Become a sponsor</a>
+<a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/open?id=1_izDZm7AcsFFE5Njfhd9GEi39eDJddW9" target="_blank">Become a sponsor</a>
 
 <a class="btn primary btn-lg" href="https://forms.gle/N8dsZPD3pcYMkFvm6">
     <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>Submit a talk
@@ -86,6 +86,6 @@ If you want to know more, please visit their site https://domvl.ru/
 <!-- ... -->
 
 {{% partners categories="general,venue,communities" %}}
-## Partners <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing" target="_blank">Become a sponsor</a>
+## Partners <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/open?id=1_izDZm7AcsFFE5Njfhd9GEi39eDJddW9" target="_blank">Become a sponsor</a>
 
 {{% /partners %}}
