@@ -11,8 +11,8 @@ draft: true
 
 Если вы хотите стать партнёром мероприятия, свяжитесь с нами!
 
-{{< button-link label="sergey@melekhin.me"
-                url="mailto:sergey@melekhin.me"
+{{< button-link label="contact@gdgvl.ru"
+                url="mailto:contact@gdgvl.ru"
                 icon="email" >}}
 
 {{% /hero %}}

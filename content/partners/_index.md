@@ -11,8 +11,8 @@ draft: true
 
 If you wish to become a sponsor, consult our sponsorship file and contact us at
 
-{{< button-link label="sergey@melekhin.me"
-                url="mailto:sergey@melekhin.me"
+{{< button-link label="contact@gdgvl.ru"
+                url="mailto:contact@gdgvl.ru"
                 icon="email" >}}
 
 
