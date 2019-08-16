@@ -38,14 +38,10 @@ DevFest — это ежегодная техническая конференц�
 
 {{< youtube-section link="kcepvhosV4U" title="Видео-нарезка с DevFest разных годов" class="" >}}
 
-
+-->
 
 {{% home-speakers %}}
 ## Докладчики
-
-{{< button-link label="Предложить доклад"
-                url="https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
-                icon="cfp" >}}
 
 {{< button-link label="Все докладчики"
                 url="./speakers"
@@ -53,50 +49,6 @@ DevFest — это ежегодная техническая конференц�
 
 {{% /home-speakers %}}
 
-
-{{% home-subscribe  class="primary" %}}
-
-## Подпишитесь на важные новости конференции
-
-{{% /home-subscribe %}}
-
-
-
-{{% home-tickets %}}
-# Tickets <a class="btn primary" href="https://www.billetweb.ru/devfest-toulouse-2019" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Билеты</a>
-
-<ul>
-<li>{{< ticket name="Слепая птаха"
-           starts="2019-03-25"
-           ends="2019-04-25"
-           price="40 €"
-           info="50 первых мест"
-           soldOut="true"
-           url="https://www.billetweb.ru/devfest-toulouse-2019" >}}</li>
-<li>{{< ticket name="Ранняя птаха"
-           starts="2019-04-25"
-           ends="2019-06-22"
-           price="60 €"
-           info="80 первых мест"
-           soldOut="true"
-           url="https://www.billetweb.ru/devfest-toulouse-2019" >}}</li>
-<li>{{< ticket name="Обычный"
-           starts="2019-06-22"
-           ends="2019-10-03"
-           price="80 €"
-           info="300 оставшихся мест"
-           close="true"
-           soldOut=""
-           url="https://www.billetweb.ru/devfest-toulouse-2019" >}}</li>
-</ul>
-
-\* Your ticket gives you access to all conferences, coffee breaks, and lunch. Accommodation is NOT included in this price.
-\* Билет даёт доступ ко всем залам, кофе-брейкам и перекусам. Проживание НЕ включено в стоимость.
-
-{{% /home-tickets %}}
-
-
--->
 
 {{% home-location
     image="/images/map.png"

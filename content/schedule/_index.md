@@ -1,10 +1,11 @@
 ---
 title: Schedule
-menu:
+_menu:
   main:
     weight: 10
 
 draft: true
+
 ---
 
 {{% hero %}}

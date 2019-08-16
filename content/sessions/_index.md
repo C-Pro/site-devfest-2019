@@ -1,11 +1,12 @@
 ---
 title: Sessions
-menu:
+_menu:
   main:
     weight: 30
 
 talkType: "nop"
-draft: true    
+draft: true
+
 ---
 
 {{% hero %}}

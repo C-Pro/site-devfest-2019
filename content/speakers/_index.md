@@ -1,14 +1,11 @@
 ---
 title: Speakers
-menu:
+_menu:
   main:
     weight: 40
 
-draft: true
+draft: false
 ---
 
-{{% hero %}}
-<!-- TODO: filter and search -->
-{{% /hero %}}
 
 

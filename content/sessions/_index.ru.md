@@ -1,6 +1,6 @@
 ---
 title: Présentations
-menu:
+_menu:
   main:
     weight: 30
 

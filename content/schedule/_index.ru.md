@@ -1,10 +1,11 @@
 ---
 title: Расписание
-menu:
+_menu:
   main:
     weight: 10
 
 draft: true
+
 ---
 
 

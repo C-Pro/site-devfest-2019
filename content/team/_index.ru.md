@@ -1,7 +1,7 @@
 ---
 title: Команда
 type: team
-menu:
+_menu:
   main:
     weight: 60
 
