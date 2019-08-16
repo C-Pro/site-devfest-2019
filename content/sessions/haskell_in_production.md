@@ -1,11 +1,12 @@
 ---
-id: zVUXQkHQtSiGJeIwVd05
+id: 2
 key: haskell_in_production
 title: "Haskell in production"
 level: advanced
-formats: "40 min"
+format: talk
+language: russian
 tags:
-  - Frontend, Backend
+  - languages
 speakers:
   - dima_krylov
 presentation:

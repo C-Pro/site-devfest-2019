@@ -1,11 +1,12 @@
 ---
-id: Kwery1cbJrx3ZFj6x1JU
+id: 1
 key: getting_started_iot
 title: "Getting started with microcontrollers and Google Cloud IoT Core"
 level: intermediate
-formats: "40 min"
+format: talk
+language: english
 tags:
-  - IoT, Cloud
+  - iot
 speakers:
   - gautier_mechling
 presentation:

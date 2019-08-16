@@ -1,6 +1,6 @@
 ---
 title: Speakers
-_menu:
+menu:
   main:
     weight: 40
 

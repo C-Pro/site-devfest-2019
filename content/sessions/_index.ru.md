@@ -1,11 +1,11 @@
 ---
-title: Présentations
+title: Доклады
 _menu:
   main:
     weight: 30
 
 talkType: "nop"
-draft: true
+draft: false
 ---
 
 {{% hero %}}

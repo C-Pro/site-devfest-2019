@@ -3,9 +3,10 @@ id: McfMVcKDdZv68NSo2JIJ
 key: solving_problems_with_design
 title: "Solving Problems with Design"
 level: intermediate
-formats: "40 min"
+format: talk
+language: english
 tags:
-  - UX, Design
+  - general
 speakers:
   - eunjeong_kim
 presentation:

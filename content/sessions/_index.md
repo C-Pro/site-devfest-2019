@@ -5,7 +5,7 @@ _menu:
     weight: 30
 
 talkType: "nop"
-draft: true
+draft: false
 
 ---
 

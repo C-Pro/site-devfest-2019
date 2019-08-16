@@ -1,6 +1,6 @@
 ---
 title: Докладчики
-_menu:
+menu:
   main:
     weight: 40
 
