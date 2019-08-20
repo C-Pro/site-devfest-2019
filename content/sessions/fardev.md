@@ -1,9 +1,9 @@
 ---
-id: 62
+id: 1981479
 key: fardev
 title: "FARDEV - Far Eastern development community"
 level: beginner
-format: talk
+talkType: talk
 language: russian
 tags:
   - general

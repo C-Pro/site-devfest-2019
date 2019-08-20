@@ -1,9 +1,9 @@
 ---
-id: 1
+id: 9043810980
 key: getting_started_iot
 title: "Getting started with microcontrollers and Google Cloud IoT Core"
 level: intermediate
-format: talk
+talkType: talk
 language: english
 tags:
   - iot

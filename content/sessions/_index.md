@@ -1,10 +1,9 @@
 ---
 title: Sessions
-_menu:
+menu:
   main:
     weight: 30
 
-talkType: "nop"
 draft: false
 
 ---
@@ -14,4 +13,5 @@ draft: false
 <!-- TODO: filter and search -->
 
 {{% /hero %}}
+
 

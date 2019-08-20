@@ -1,9 +1,9 @@
 ---
-id: McfMVasdfdZv68NSo2assdasdfasdff
+id: 987294375987132
 key: scrum
 title: "Scrum & Drom"
 level: intermediate
-format: talk
+talkType: talk
 language: russian
 tags:
   - general

@@ -6,7 +6,7 @@ name: Роман Волобоев
 city: Владивосток
 photoURL: /images/speakers/roman_voloboev.jpg
 socials:
- - icon: medium 
+ - icon: site
    link: https://medium.com/@animirr
    name: animirr
  - icon: github

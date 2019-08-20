@@ -1,9 +1,9 @@
 ---
-id: McfMVcKDdZv68NSo2asdf
+id: 134513798798
 key: self-organization_in_teams
 title: "Self-organization in teams"
 level: intermediate
-format: talk
+talkType: talk
 language: russian
 tags:
   - general

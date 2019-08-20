@@ -1,9 +1,9 @@
 ---
-id: 9322
+id: 9380159834908
 key: header40
 title: "Верстаю шапку за 40 часов"
 level: intermediate
-format: talk
+talkType: talk
 language: russian
 tags:
   - web

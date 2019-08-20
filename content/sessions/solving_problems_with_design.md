@@ -1,9 +1,9 @@
 ---
-id: McfMVcKDdZv68NSo2JIJ
+id: 98714395809143809
 key: solving_problems_with_design
 title: "Solving Problems with Design"
 level: intermediate
-format: talk
+talkType: talk
 language: english
 tags:
   - general

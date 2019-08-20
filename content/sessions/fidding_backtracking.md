@@ -1,9 +1,9 @@
 ---
-id: McfMVasdfdZv68NSo2asdf
+id: 9032849032809
 key: fiding_backtracking
 title: "Finding catastrophic backtracking statically"
 level: advanced
-format: talk
+talkType: talk
 language: russian
 tags:
   - languages
