@@ -1,7 +1,7 @@
 ---
 id: 9380159834908
 key: header40
-title: "Верстаю шапку за \"40 часов\""
+title: "Верстаю шапку 40 часов"
 level: intermediate
 talkType: talk
 language: russian
