@@ -77,8 +77,8 @@ draft: false
 <tr>
   <td>17:00</td>
   <td>
-    <a href="/speakers/kseniya_polyakova">Ксения Полякова</a> —
-    <a href="/sessions/scrum">Scrum & Drom</a>
+    <a href="/speakers/dmitry_shvetsov">Дмитрий Швецов</a> —
+    <a href="/sessions/graphql">C нуля до GraphQL за 40 минут</a>
   </td>
   <td>
     <a href="/speakers/yana_lugina">Яна Лугина</a> —
