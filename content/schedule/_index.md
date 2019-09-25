@@ -61,6 +61,9 @@ draft: false
   <td>
     <a href="/speakers/anton_kolobov">Антон Колобов</a> —
     <a href="/sessions/data_lake">Как не утонуть в озере данных?</a>
+    <br>
+    <a href="#">Тюкавин Андрей</a> —
+    <a href="#">открытые инструменты аналитики геоданных в python</a>
   </td>
 </tr>
 <tr>
