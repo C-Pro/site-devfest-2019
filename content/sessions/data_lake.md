@@ -9,8 +9,8 @@ tags:
   - big-data-ml-ai
 speakers:
   - anton_kolobov
-presentation:
-videoId:
+presentation: https://drive.google.com/open?id=1NQe_DNn-qHgt8S__Laf1MI9EZnuJgU8p
+videoId: NhQuEA2RYjw
 draft: false
 ---
 

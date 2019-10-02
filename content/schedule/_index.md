@@ -74,7 +74,7 @@ draft: false
   </td>
   <td>
     <a href="/speakers/ilya_evseev">Илья Евсеев</a> —
-    <a href="/sessions/fardev">FARDEV — Дальневосточное IT-сообщество</a>
+    <a href="/sessions/fardev">Качалка для разработчика</a>
   </td>
 </tr>
 <tr>

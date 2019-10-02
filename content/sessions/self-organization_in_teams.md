@@ -9,8 +9,8 @@ tags:
   - general
 speakers:
   - galina_chernyak
-presentation:
-videoId:
+presentation: https://drive.google.com/open?id=1jf5Mzsk2c0SLg3MC1N89zUARkc_a9Mlt
+videoId: 8f4Ck8WJL4s
 draft: false
 ---
 

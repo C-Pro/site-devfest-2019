@@ -9,8 +9,8 @@ tags:
   - languages
 speakers:
   - iskander_sharipov
-presentation:
-videoId:
+presentation: https://drive.google.com/open?id=1d0QcUfu-NlCtTkP3qCC1j-mDk9ja1c9_
+videoId: xH2ClIIGN94
 draft: false
 ---
 

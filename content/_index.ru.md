@@ -14,13 +14,13 @@ menu:
 ### Коворкинг DOM
 
 
-<a class="btn primary btn-lg" style="margin-top: 1em;" href="https://www.meetup.com/GDG-Vladivostok/events/261661916/" target="_blank">Зарегистрироваться</a>
+<!--a class="btn primary btn-lg" style="margin-top: 1em;" href="https://www.meetup.com/GDG-Vladivostok/events/261661916/" target="_blank">Зарегистрироваться</a>
 
 <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/open?id=12ZHC0gVBTPEX7AsxjD6iv7N_mRb-JLLr" target="_blank">Стать спонсором</a>
 
 <a class="btn primary btn-lg" href="https://forms.gle/N8dsZPD3pcYMkFvm6">
     <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>Предложить доклад
-</a>
+</a-->
 
 
 {{% /jumbo %}}

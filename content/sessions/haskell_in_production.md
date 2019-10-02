@@ -10,7 +10,7 @@ tags:
 speakers:
   - dima_krylov
 presentation:
-videoId:
+videoId: rrpoYf7fOuc
 draft: false
 ---
 

@@ -9,8 +9,8 @@ tags:
   - general
 speakers:
   - ekaterina_vinnichenko
-presentation:
-videoId:
+presentation: https://drive.google.com/open?id=1vVdxycg5cZ8W5WC7dQ9ouWG9gdXyMsjS
+videoId: h_EsHIXc_lQ
 draft: false
 ---
 

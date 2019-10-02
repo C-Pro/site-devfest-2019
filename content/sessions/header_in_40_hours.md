@@ -9,8 +9,8 @@ tags:
   - web
 speakers:
   - daniil_pronin
-presentation:
-videoId:
+presentation: https://drive.google.com/open?id=13Moc6mW-kj5ep7eIo-NOq1jg2QEIXYtw
+videoId: EP2h_Wr1m4c
 draft: false
 ---
 

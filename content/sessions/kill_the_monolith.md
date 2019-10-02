@@ -9,8 +9,8 @@ tags:
   - web
 speakers:
   - yana_lugina
-presentation:
-videoId:
+presentation: https://drive.google.com/open?id=1_59XLEIxDsrLxwLdCBD7Nyiw4hKzn8DV
+videoId: r6RvsDE3ERw
 draft: false
 ---
 

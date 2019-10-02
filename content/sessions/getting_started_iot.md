@@ -9,8 +9,8 @@ tags:
   - iot
 speakers:
   - gautier_mechling
-presentation:
-videoId:
+presentation: https://drive.google.com/open?id=1klG35QuE8KlYm8nR3rrvYNxCfqbuuDuI
+videoId: nTSLNN7qP2c
 draft: false
 ---
 
